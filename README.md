@@ -1,4 +1,4 @@
-# Alice-42-piscine
+42-piscine
 
 This is a work repository for passing a C piscine.
 
@@ -10,11 +10,7 @@ Before starting the work please make sure that you have all these tools installe
 - vim
 - gcc
 - make
-- norminette
-
-## Input
-
-Username: `alice`
+- norminette (optional)
 
 ## Submission process
 
@@ -23,14 +19,6 @@ Steps:
 2. Add your files to the `dayXX` directory (the directory with the task) for every completed day
 3. Commit and push your changes
 4. Create a pull request from your working branch to the `master` branch **before the 11:42 PM of the deadline date**
-
-## Schedule
-
-| Task (Days) | Starting date | Deadline date | Score |
-|-------------|---------------|---------------|-------|
-| 00 - 01     | 16.01         | 22.01         | -     |
-| 02 - 05     | 23.01         | 29.01         | -     |
-| .......     | .....         | .....         | -     |
 
 ## Notes
 
