@@ -1,4 +1,4 @@
-42-piscine
+# 42-piscine
 
 This is a work repository for passing a C piscine.
 
